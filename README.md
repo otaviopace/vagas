@@ -2,9 +2,7 @@
 
 # vagas
 
-:handshake: Venha fazer parte do nosso time. **Estamos contratando!**
-
-* :point_right: [**Clique aqui para ver as nossas vagas em abertos**](https://pagarme.workable.com)
+:handshake: Venha fazer parte do nosso time. :point_right: [**Estamos contratando!**](https://pagarme.workable.com)
 
 ## O que estamos construindo
 
