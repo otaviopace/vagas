@@ -26,7 +26,7 @@ Favorecemos a mentalidade de “errar rápido e corrigir rápido”. Acreditamos
 
 Entendemos de tecnologia, por isso não escalamos em pessoas: automatizamos ao máximo tarefas mecânicas para que as pessoas possam focar os seus esforços em aprender e nos ajudar a resolver os problemas dos nossos clientes.
 
-## We :heart: Opensource
+## We :heart: Open Source
 
 Nós usamos muita coisa que veio da comunidade, e queremos retribuir. 
 
