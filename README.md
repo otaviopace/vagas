@@ -4,7 +4,7 @@
 
 :handshake: Venha fazer parte do nosso time. [**Estamos contratando!**](https://pagarme.workable.com)
 
-## O que estamos construindo
+## Sobre o Pagar.me
 
 O Pagar.me é uma empresa brasileira de tecnologia de pagamentos online que trabalha para descomplicar o dia a dia de quem empreende digital.
 
@@ -12,7 +12,7 @@ Conectamos lojistas ao ecossistema de pagamentos com apenas uma integração, cu
 
 Temos paixão por inovação e acreditamos no seu poder para promover mudanças reais. Temos o objetivo ambicioso de oxigenar a tecnologia no Brasil e assim ajudar a melhorar a vida das pessoas que empreendem no nosso país.
 
-## Como é trabalhar aqui
+## Como é trabalhar aqui?
 
 Somos uma empresa de tecnologia e produto com uma preocupação genuína com as pessoas.
 
