@@ -14,10 +14,27 @@ Temos paixão por inovação e acreditamos no seu poder para promover mudanças 
 
 ## Como é trabalhar aqui
 
-Somos uma empresa de tecnologia e produto com foco em pessoas. Valorizamos e cuidamos de quem está aqui, já que entendemos que só assim conseguimos chegar mais longe.
+Somos uma empresa de tecnologia e produto com uma preocupação genuína com as pessoas.
 
-Temos muito orgulho da nossa cultura e buscamos manter sempre um ambiente favorável para o crescimento profissional e pessoal de cada pessoa. Fazemos isso valorizando a colaboração entre os times e a troca de conhecimentos e de ideias: aqui todo mundo tem voz e as decisões são tomadas em conjunto, sempre que possível.
+Nós entendemos que para chegar tão longe quanto sonhamos, precisamos ter as pessoas certas com a gente, por isso valorizamos e cuidamos das pessoas que estão no nosso time.
 
-Favorecemos a mentalidade de “errar rápido e corrigir rápido”. Acreditamos em autonomia, sempre caminhando junto para construir um produto que impacta positivamente o mercado e a sociedade. Buscamos escalar em tecnologia, ou seja, automatizamos ao máximo tarefas mecânicas para que as pessoas possam focar na sua evolução profissional e na construção de uma empresa cada vez melhor.
+Temos muito orgulho da nossa cultura e tentamos construir todos os dias oportunidades para ajudar as pessoas do nosso time a crescer.
 
+Fazemos isso valorizando a colaboração acima do sucesso individual, tomando decisões ouvindo opiniões diferentes das nossas e encorajando as pessoas a ocuparem os espaços e assumirem os riscos e a responsabilidade das oportunidades que surgem.
 
+Favorecemos a mentalidade de “errar rápido e corrigir rápido”. Acreditamos em autonomia e transparência, porque acreditamos que inovação e liderança surgem de todos os níveis. 
+
+Entendemos de tecnologia, por isso não escalamos em pessoas: automatizamos ao máximo tarefas mecânicas para que as pessoas possam focar os seus esforços em aprender e nos ajudar a resolver os problemas dos nossos clientes.
+
+## We :heart: Opensource
+
+Nós usamos muita coisa que veio da comunidade, e queremos retribuir. 
+
+Além de compartilhar [nossas talks no youtube](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw), nós também decidimos deixar open source o código de alguns dos nosso serviços que são usados em produção por nossos clientes todos os dias. 
+
+Alguns exemplos:
+
+* [**TLDR**](https://github.com/pagarme/tldr) - Nosso microsserviço para emissão de recibos de transações
+* [**Superbowleto**](https://github.com/pagarme/superbowleto) - Nosso microsserviço de registro de boletos, por onde passam todas as nossas transações de boleto (é bastante coisa)
+* [**Pilot**](https://github.com/pagarme/pilot) - A nova versão da nossa dashboard escrita em React
+* [**Former Kit**](https://github.com/pagarme/former-kit) - A biblioteca de componentes que usamos na nova dashboard, 100% utilizável em outros contextos além de pagamentos
